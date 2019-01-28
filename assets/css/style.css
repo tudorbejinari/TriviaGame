@@ -1,0 +1,25 @@
+
+.jumbotron {
+        background-color: white;
+
+} 
+.btn {
+    width:275px;
+    font-size: 20px;
+
+  
+  }
+
+
+body {
+    background-image: url("../images/image6.jpg");
+    background-repeat: no-repeat;
+    background-position: cover;
+    color: red;
+    background-size: 100%;
+    font-size: 20px;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+.answer:hover {
+    background:aqua;
+  }
